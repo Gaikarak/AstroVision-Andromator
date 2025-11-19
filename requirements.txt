@@ -1,0 +1,6 @@
+fastapi
+uvicorn[standard]
+pydantic
+uiautomator2
+pillow
+
