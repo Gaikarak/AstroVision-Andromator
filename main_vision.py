@@ -8,7 +8,7 @@ from vision_agent import VisionAgent
 
 # ==================== Configuration ====================
 
-MOONDREAM_API_KEY = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJrZXlfaWQiOiI2MDc3NzE3NS1iM2Q1LTRkMGQtYjNlYy00M2M4YWVhOWEyYTQiLCJvcmdfaWQiOiIyeGJvSHdPSFhidEtneWZTZkM3RDB5ZUd0U1ZtaGFEMiIsImlhdCI6MTc2MzQ1MDEyMCwidmVyIjoxfQ.WLPh0gCqGFn2qqqDd4oMcJH6KcfEsbwRGDS4sMGzPek"
+MOONDREAM_API_KEY = ""
 INTELLIGENT_MODE = True  # Enable intelligent features (Moondream reasoning)
 
 # ==================== FastAPI App ====================
